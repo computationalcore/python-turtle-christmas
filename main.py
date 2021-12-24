@@ -1,7 +1,7 @@
 import turtle
 import random
 
-web_based = True
+web_based = False
 
 if web_based:
     i_scale = 1.5
